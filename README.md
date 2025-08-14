@@ -74,9 +74,4 @@ This project is a deep learning-based skin disease classification system that us
 
 ---
 
-## 📝 Publication
-
-- Nayan Adhikari; Pallabi Ghosh; Abhinaba Bhattacharyya; Siddhartha Chatterjee. “AQIP: Air Quality Index
-Prediction Using Supervised ML Classifiers.” Volume. 10 Issue.7, July-2025 International Journal of
-Innovative Science and Research Technology (IJISRT),835-842, https://doi.org/10.38124/ijisrt/25jul758
 
