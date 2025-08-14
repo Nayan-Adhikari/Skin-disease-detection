@@ -16,7 +16,7 @@ This project is a deep learning-based skin disease classification system that us
 
 - **Language**: Python  
 - **Libraries**: TensorFlow, Keras, Pandas, NumPy, Matplotlib  
-- **Tools**: Google Colab / Jupyter Notebook  
+- **Tools**: Jupyter Notebook  
 - **Model**: Convolutional Neural Network (CNN)
 
 ---
